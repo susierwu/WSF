@@ -10,7 +10,7 @@ This repo contains presentation on Water Scarcity Footprint (WSF), including thr
    - M3 link: https://susierwu.github.io/WSF/M3/index.html
  
 
-The presentation is saved as Slideshow.HTML or HTML file. Audio files (in Chinese) are inserted in the file. 
+The presentation is saved as Slideshow.HTML or HTML file.
  
 ## Tips
  - Access the presentation from a desktop, you can use any APPs for HTML Reader/ Viewer (e.g., Google Chrome, MS Edge) to open the presentation.

@@ -1,4 +1,4 @@
-# WSF
+# WSF tutorial
 
 This repo contains presentation on Water Scarcity Footprint (WSF), including three modules: 
 

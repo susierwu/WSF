@@ -16,3 +16,9 @@ The presentation is saved as Slideshow.HTML or HTML file.
  - Access the presentation from a desktop, you can use any APPs for HTML Reader/ Viewer (e.g., Google Chrome, MS Edge) to open the presentation.
  - For slideshow, use the Up/Down arrow (on the bottom right) to browse different slides in the same section; use the Left/Right arrow to go over different sections; 
  - Files can be zoomed in/out like you browse website (MAC: Option + Command + = / -, or just tap with fingers on touchpad to zoom in/out)
+
+
+
+# Direct WSF calculation: native AWARE scale - monthly, watershed level
+
+Scripts for calculating direct regionalized WSF are available under "Direct_WSF_regionalized" folder. 
